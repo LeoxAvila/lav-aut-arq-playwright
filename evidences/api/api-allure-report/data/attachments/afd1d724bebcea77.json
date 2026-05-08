@@ -1,0 +1,26 @@
+{
+  "status": 201,
+  "headers": {
+    "date": "Fri, 08 May 2026 02:50:57 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "223",
+    "connection": "keep-alive",
+    "access-control-allow-origin": "*",
+    "etag": "W/\"df-jM9YdzDUw2KGqgiUfpKzc8NTIlY\"",
+    "x-powered-by": "Express",
+    "cf-cache-status": "DYNAMIC",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=U6U5QisbWmPZXvKeySC66r9l6AjKFT%2BLkKupw30EjrkImy7OlNgvMuoejRSSNtMQVryVMxEEGeBGHYLaT4%2BA0yXV7ZheFYC9uxLBYOvsRAmTObskcncbxEz4FxLMd3NYZmg8\"}]}",
+    "server": "cloudflare",
+    "cf-ray": "9f8528ef4e206746-ATL",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 21,
+    "title": "Test Product — Automation QA",
+    "price": 29.99,
+    "description": "Producto de prueba creado por el framework de automatización.",
+    "image": "https://fakestoreapi.com/img/placeholder.jpg",
+    "category": "electronics"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "status": 200,
+  "headers": {
+    "date": "Fri, 08 May 2026 02:50:51 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "transfer-encoding": "chunked",
+    "connection": "keep-alive",
+    "access-control-allow-origin": "*",
+    "etag": "W/\"232-+QUwI0GnBFEWR25iPj2P5FaNXJM\"",
+    "x-powered-by": "Express",
+    "cf-cache-status": "DYNAMIC",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=bbLv30I%2B45cW2kW7J%2BFWojUC0bGpVow2oZNov8g1kKxZRk5AAmgHbOSrcq%2BvElfU47Yj8Cx2jIoegJ8RWypT5z54B4pnsD1yknV9K3FyAg5NEtrYiGlzKO8cBuPrTqCIhUsC\"}]}",
+    "content-encoding": "br",
+    "server": "cloudflare",
+    "cf-ray": "9f8528c6ee1541c4-ATL",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 19,
+    "title": "Opna Women's Short Sleeve Moisture",
+    "price": 7.95,
+    "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_t.png",
+    "rating": {
+      "rate": 4.5,
+      "count": 146
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "method": "POST",
+  "url": "https://fakestoreapi.com/products",
+  "headers": {
+    "Content-Type": "application/json"
+  },
+  "body": {}
+}

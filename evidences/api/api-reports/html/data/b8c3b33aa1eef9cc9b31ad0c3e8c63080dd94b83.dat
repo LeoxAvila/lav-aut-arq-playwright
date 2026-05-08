@@ -1,0 +1,1 @@
+{"type":"metadata","data":{"description":"[BUG] POST /products con payload {} debería retornar HTTP 400 con mensaje de validación. Comportamiento actual: Fake Store acepta el payload vacío y retorna un objeto con solo id. Este test falla intencionalmente para registrar el defecto."}}

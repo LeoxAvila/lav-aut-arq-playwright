@@ -1,0 +1,1 @@
+{"type":"metadata","data":{"description":"[BUG] GET /products/999999 debería retornar HTTP 404 con body \"Object not found\". Comportamiento actual: Fake Store retorna HTTP 200 con body vacío. Este test falla intencionalmente para registrar el defecto."}}

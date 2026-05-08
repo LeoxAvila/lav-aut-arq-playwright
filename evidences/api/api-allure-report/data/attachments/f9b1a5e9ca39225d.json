@@ -1,0 +1,7 @@
+{
+  "method": "GET",
+  "url": "https://fakestoreapi.com/products/category/categoria-inexistente",
+  "headers": {
+    "Accept": "application/json"
+  }
+}

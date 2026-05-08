@@ -1,0 +1,14 @@
+{
+  "method": "PUT",
+  "url": "https://fakestoreapi.com/products/11",
+  "headers": {
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "title": "Test Product — Updated by Automation",
+    "price": 49.99,
+    "description": "Producto actualizado por el framework de automatización.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/placeholder-updated.jpg"
+  }
+}

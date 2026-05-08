@@ -1,0 +1,27 @@
+{
+  "status": 200,
+  "headers": {
+    "date": "Fri, 08 May 2026 02:50:58 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "transfer-encoding": "chunked",
+    "connection": "keep-alive",
+    "access-control-allow-origin": "*",
+    "etag": "W/\"e7-Mv+rUXOX0C+MmSMQSJNROg1KT3c\"",
+    "x-powered-by": "Express",
+    "cf-cache-status": "DYNAMIC",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=nsaZbb%2Fq1hPX82fbcDCdeoE5S28Bo5guQqy4%2F8pO7vMRKGtbh3gH33ENdqyjDBZdKxaiJWlm46EEXMTDk%2F9gI1tmkfc3sycXck%2FEjXxnnyVjNB7UH2B2UWMNZkJhFCeGhqr5\"}]}",
+    "content-encoding": "br",
+    "server": "cloudflare",
+    "cf-ray": "9f8528f0cf206746-ATL",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "body": {
+    "id": 11,
+    "title": "Test Product — Updated by Automation",
+    "price": 49.99,
+    "description": "Producto actualizado por el framework de automatización.",
+    "image": "https://fakestoreapi.com/img/placeholder-updated.jpg",
+    "category": "jewelery"
+  }
+}
