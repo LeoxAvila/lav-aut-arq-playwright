@@ -1,0 +1,29 @@
+{
+  "escenario_base": {
+    "tipoCredito": "PRECISO",
+    "monto": 10000,
+    "plazo": "1 año",
+    "metodo": "FRANCES",
+    "descripcion": "Simulación estándar crédito PRECISO 12 meses método francés"
+  },
+  "escenario_corto": {
+    "tipoCredito": "PRECISO",
+    "monto": 5000,
+    "plazo": "6 meses",
+    "metodo": "FRANCES",
+    "descripcion": "Simulación crédito PRECISO plazo corto 6 meses"
+  },
+  "escenario_aleman": {
+    "tipoCredito": "PRECISO",
+    "monto": 10000,
+    "plazo": "1 año",
+    "metodo": "ALEMAN",
+    "descripcion": "Simulación crédito PRECISO método alemán para comparación"
+  },
+  "limites": {
+    "montoMinimo": 300,
+    "montoMaximo": 999999,
+    "plazoMinimo": "3 meses",
+    "plazoMaximo": "5 años"
+  }
+}

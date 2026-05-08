@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "url": "https://fakestoreapi.com/products",
+  "headers": {
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "title": "Test Product — Automation QA",
+    "price": 29.99,
+    "description": "Producto de prueba creado por el framework de automatización.",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/placeholder.jpg"
+  }
+}

@@ -1,0 +1,1 @@
+{"type":"metadata","data":{"description":"Verifica que GET /products/category/<categoría-inexistente> retorna HTTP 200 con un array vacío []."}}

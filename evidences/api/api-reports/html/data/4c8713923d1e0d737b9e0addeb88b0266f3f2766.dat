@@ -1,0 +1,1 @@
+{"type":"metadata","data":{"description":"Verifica que POST /products con un payload válido retorna status 200, un id numérico asignado y los campos enviados reflejados en la respuesta. Nota: Fake Store es una API de demo — los datos no se persisten realmente."}}

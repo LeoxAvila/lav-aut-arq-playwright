@@ -1,0 +1,1 @@
+{"type":"metadata","data":{"description":"Verifica que GET /products/category/electronics retorna status 200, lista no vacía y todos los productos pertenecen a la categoría electronics."}}

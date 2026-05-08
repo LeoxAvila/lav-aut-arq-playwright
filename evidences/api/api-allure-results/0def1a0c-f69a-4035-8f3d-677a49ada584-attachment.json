@@ -1,0 +1,7 @@
+{
+  "method": "GET",
+  "url": "https://fakestoreapi.com/products?limit=5",
+  "headers": {
+    "Accept": "application/json"
+  }
+}

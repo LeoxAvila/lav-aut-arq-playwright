@@ -1,0 +1,24 @@
+{
+  "escenario_base": {
+    "tipoCredito": "HIPOTECARIO VIVIENDA",
+    "montoVivienda": 80000,
+    "montoCredito": 60000,
+    "plazo": "5 años",
+    "metodo": "FRANCES",
+    "descripcion": "Simulación estándar crédito Hipotecario Vivienda 60 meses"
+  },
+  "escenario_corto": {
+    "tipoCredito": "HIPOTECARIO VIVIENDA",
+    "montoVivienda": 50000,
+    "montoCredito": 40000,
+    "plazo": "3 años",
+    "metodo": "FRANCES",
+    "descripcion": "Simulación Hipotecario Vivienda plazo reducido 36 meses"
+  },
+  "limites": {
+    "montoMinimo": 3000,
+    "montoMaximo": 999999,
+    "plazoMinimo": "1 año",
+    "plazoMaximo": "20 años"
+  }
+}

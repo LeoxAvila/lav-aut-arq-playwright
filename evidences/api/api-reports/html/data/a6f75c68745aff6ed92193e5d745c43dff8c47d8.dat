@@ -1,0 +1,1 @@
+{"type":"metadata","data":{"description":"Verifica que GET /products/{id} retorna status 200 y el producto tiene estructura, tipos de datos y rating correctos."}}
